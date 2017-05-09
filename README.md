@@ -20,4 +20,4 @@ Rear Camera  | 13 MP, f/2.2, autofocus, LED flash
 Front Camera | 5 MP
 Release Date | March 2015
 
-![HTC Desire 626](http://cdn2.gsmarena.com/vv/bigpic/htc-desire-626.jpg "HTC Desire 626")
+![HTC Desire 626](http://cdn2.gsmarena.com/vv/pics/htc/htc-desire-626.jpg "HTC Desire 626")
