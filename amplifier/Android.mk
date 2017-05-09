@@ -6,7 +6,7 @@ LOCAL_SHARED_LIBRARIES := \
 	liblog libutils libtinyalsa
 
 LOCAL_CFLAGS += \
-	-DPLATFORM_MSM8994
+	-DPLATFORM_MSM8916
 
 LOCAL_C_INCLUDES := \
 	external/tinyalsa/include \
