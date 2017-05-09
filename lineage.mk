@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/htc/a32ul/device.mk)
+$(call inherit-product, device/htc/a32ul/a32ul.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
